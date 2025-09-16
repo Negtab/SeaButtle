@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.738,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\DevUnit.dfm=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.492,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\InstructionUnit.dfm=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.929,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\WinUnitUser1.dfm=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\WinUnit.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.475,C:\Users\Admin\Desktop\FormSeaBattle\MainUnit.pas=C:\Users\Admin\Downloads\это было последнее дело\FormSeaBattle\MainUnit.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.738,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\DevUnit.pas=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.281,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\WinUnitUser2.dfm=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.870,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\WinUnit.pas=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.217,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.580,=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.107,=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.929,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\WinUnitUser1.pas=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\WinUnit.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.475,C:\Users\Admin\Desktop\FormSeaBattle\MainUnit.dfm=C:\Users\Admin\Downloads\это было последнее дело\FormSeaBattle\MainUnit.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.300,=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.841,=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.119,=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.667,=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.647,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\MainUnit.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.217,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.647,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.dfm=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\MainUnit.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.490,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\InstructionUnit.pas=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.281,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\WinUnitUser2.pas=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.870,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\WinUnit.dfm=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.206,C:\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\FormSeaBattle\SeaBattle.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DevUnit.pas"/>
+    <File Path="DevUnit.dfm"/>
+    <File Path="InstructionUnit.pas"/>
+    <File Path="InstructionUnit.dfm"/>
+    <File Path="WinUnitUser1.pas"/>
+    <File Path="WinUnitUser1.dfm"/>
+    <File Path="WinUnitUser2.pas"/>
+    <File Path="WinUnitUser2.dfm"/>
+    <File Path="MainUnit.pas"/>
+    <File Path="MainUnit.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
